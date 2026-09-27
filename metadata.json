@@ -1,0 +1,6 @@
+{
+  "name": "Somali Wealth Academy Student Dashboard",
+  "description": "Executive Digital Marketing & Wealth Academy Student Portal for Halimo Mousse. Features course management, study planner, schedule routines, payment tracking, prayer times, Adkaar, and Qur'an audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
